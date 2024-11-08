@@ -7,7 +7,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.example.act4.R
+import com.example.actt4.R
 import kotlin.math.ceil
 
 class MainActivity : AppCompatActivity() {
